@@ -26,4 +26,4 @@ Desafio de projeto da [DIO](https://www.dio.me/), construído em três etapas: p
 
 ---
 
-Feito por [Leonardo Paixão](https://github.com/leopxz)
+
